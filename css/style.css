@@ -1,0 +1,18 @@
+.container {
+	max-width: 1150px;
+	margin: 0 auto;
+}
+
+.sv-top {
+	margin-bottom: 170px;
+}
+
+.sv-bottom-header-flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.sv-bottom-boldStyle {
+	font-weight: bold;
+}
